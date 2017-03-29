@@ -17,7 +17,7 @@ npm run prod // build for production
 
 ### Built With
 
-* [Webpack](http://www.dropwizard.io/1.0.2/docs/) - Webpack is a module bundler for modern JavaScript applications
+* [Webpack](https://webpack.js.org/) - Webpack is a module bundler for modern JavaScript applications
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 
 ### License
